@@ -1,2 +1,2 @@
-g++ .\lab02.cpp
-.\a.exe
+g++  .\lab02.cpp 
+.\a.exe notepad.exe
